@@ -14,4 +14,4 @@ Thank you for visiting my portfolio. Please feel free to reach out if you would 
 * **Data Processing & EDA:** Cleaned the dataset by handling missing values and analyzed feature distributions to uncover initial patterns.
 * **Model Building & Feature Engineering:** Developed a robust preprocessing pipeline and trained an interpretable Linear Regression model.
 * **Model Performance:** Achieved an R² of 0.80 and MAE of 5.54, identifying study hours and past performance as the strongest predictors of final scores.
-![alt text](images\Exam_Score_Prediction_Project.png)
+![alt text](images/Exam_Score_Prediction_Project.png)
