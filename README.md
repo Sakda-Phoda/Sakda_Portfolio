@@ -24,14 +24,14 @@ Thank you for visiting my portfolio. Please feel free to reach out if you would 
 * **Model Building & Feature Engineering:** I constructed a robust preprocessing pipeline using `ColumnTransformer` and trained an optimized `LightGBM` model using `Optuna` for automated hyperparameter tuning.
 * **Model Performance:** I evaluated the models using F1-score and accuracy, where the Burnout prediction model performed best, achieving an F1-Score of 0.60 and demonstrating strong predictive capability in identifying high-risk individuals.
 <<<<<<< HEAD
-![alt text](images\Mental_Health_Prediction_Project_1.png)
-![alt text](images\Mental_Health_Prediction_Project_2.png)
-![alt text](images\Mental_Health_Prediction_Project_3.png)
+![alt text](images/Mental_Health_Prediction_Project_1.png)
+![alt text](images/Mental_Health_Prediction_Project_2.png)
+![alt text](images/Mental_Health_Prediction_Project_3.png)
 
 # [Project: Predictive CLV Segmentation](https://github.com/Sakda-Phoda/Predictive_CLV_Segmentation)
 * **Objective:** I developed a predictive model and segmentation strategy to estimate Customer Lifetime Value (CLV), helping marketing and sales teams identify high-value customers and optimize their targeted campaigns to maximize long-term revenue.
 * **Data Processing** I cleaned and aggregated transactional data into customer-level metrics, focusing on Cohort Analysis and RFM (Recency, Frequency, Monetary) feature extraction to understand purchasing patterns.
 * **Model Building & Feature Engineering:** I engineered RFM features and built probabilistic models, specifically using the BG/NBD model to predict purchase frequency and the Gamma-Gamma model to predict monetary value, followed by GMM Clustering to segment customers based on their predicted lifetime value and probability of remaining active.
 * **Key Findings:** Using GMM clustering, I successfully segmented customers into 5 distinct profiles (Loyal, Promising, Need Attention, Lower, Lost). This enabled me to pinpoint that Loyal and Need Attention customers are the core revenue drivers, and I established clear Customer Retention Cost (CRC) benchmarks (e.g., $54 for Loyal Customers) to strategically allocate marketing budgets.
-![alt text](images\Predictive_CLV_Segmentation_Project_1.png)
-![alt text](images\Predictive_CLV_Segmentation_Project_2.png)
+![alt text](images/Predictive_CLV_Segmentation_Project_1.png)
+![alt text](images/Predictive_CLV_Segmentation_Project_2.png)
