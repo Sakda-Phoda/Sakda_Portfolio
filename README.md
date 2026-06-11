@@ -42,3 +42,10 @@ Thank you for visiting my portfolio. Please feel free to reach out if you would 
 * **Key Findings:** Using GMM clustering, I successfully segmented customers into 5 distinct profiles (Loyal, Promising, Need Attention, Lower, Lost). This enabled me to pinpoint that Loyal and Need Attention customers are the core revenue drivers, and I established clear Customer Retention Cost (CRC) benchmarks (e.g., $54 for Loyal Customers) to strategically allocate marketing budgets.
 ![alt text](images/Predictive_CLV_Segmentation_Project_1.png)
 ![alt text](images/Predictive_CLV_Segmentation_Project_2.png)
+
+# [Project: Online Shopping Hypothesis Testing](https://github.com/Sakda-Phoda/Online_Shopping_Hypothesis_Testing)
+* **Objective:** My goal is to see if a new recommendation system, a button color change, and different marketing campaigns actually work. This helps the team launch features that truly increase sales and conversions.
+* **Hypothesis Testing & Results:** I used strong statistical tests (Brunner-Munzel, Z-Test, Chi-Square) and power analysis to measure the real impact (effect size) across three separate experiments. The results clearly showed which changes successfully drove more sales and conversions.
+![alt text](images/Hypothesis_Testing_1.png)
+![alt text](images/Hypothesis_Testing_3.png)
+![alt text](images/Hypothesis_Testing_4.png)
