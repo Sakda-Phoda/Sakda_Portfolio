@@ -19,7 +19,7 @@ Thank you for visiting my portfolio. Please feel free to reach out if you would 
 * **Model Performance:** Selected the Tuned Prophet model as the optimal approach, achieving an impressive 4.07% CV MAPE and revealing a slight downward cooling trend for 2026.
 ![alt text](images/Temperature_Forecasting_Project.png)
 
-# [Project: Thailand Temperature Forecasting](https://github.com/Sakda-Phoda/Exam_Score_Prediction)
+# [Project: Exam Score Prediction](https://github.com/Sakda-Phoda/Exam_Score_Prediction)
 * **Objective:** Help educators and students improve academic performance by identifying actionable behaviors and enabling early intervention.
 * **Data Processing & EDA:** Cleaned the dataset by handling missing values and analyzed feature distributions to uncover initial patterns.
 * **Model Building & Feature Engineering:** Developed a robust preprocessing pipeline and trained an interpretable Linear Regression model.
