@@ -3,6 +3,14 @@ Thank you for visiting my portfolio. Please feel free to reach out if you would 
 
 > 💡 **Note:** Click on the project titles to see more details in the repository.
 
+# [Project: EDA Video Game Sales](https://github.com/Sakda-Phoda/EDA_Video_Game_Sales)
+* **Objective:** This project aims to empower game developers, publishers, and investors by uncovering historical video game market trends, showing them **how** genres, platforms, and critical reception influence commercial success, and **who** the key industry players are.
+* **Data Cleaning:** I cleaned and standardized the dataset by lowercasing headers, formatting dates, and engineering new temporal features.
+* **Exploratory Data Analysis (EDA):** I performed comprehensive data analysis to identify market concentrations, console dominance, franchise power, and the relationship between game scores and total sales.
+![alt text](images\EDA_Video_Game_Sales_1.png)
+![alt text](images\EDA_Video_Game_Sales_10.png)
+![alt text](images\EDA_Video_Game_Sales_6.png)
+
 # [Project: Thailand Temperature Forecasting](https://github.com/Sakda-Phoda/Temperature_Forecasting)
 * **Objective:** This project helps businesses, agricultural planners, and policymakers in Thailand anticipate weather patterns and plan their operations effectively by providing a highly accurate 12-month temperature forecast..
 * **Data Preparation:** Cleaned and verified daily temperature records (2022-2025) to ensure a complete dataset with no missing values.
