@@ -3,6 +3,16 @@ Thank you for visiting my portfolio. Please feel free to reach out if you would 
 
 > 💡 **Note:** Click on the project titles to see more details in the repository.
 
+# [Project: Healthcare_Fraud_Detection with PyTorch](https://github.com/Sakda-Phoda/Healthcare_Fraud_Detection)
+* **Objective:** Develop a deep learning classification pipeline to flag potentially fraudulent healthcare insurance claims, helping insurance companies minimize financial losses and streamline claims processing.
+* **Data Cleaning:** Removed rows with missing values, dropped high-cardinality identifiers, and eliminated post-decision leakage features to ensure the model reflects a realistic operating scenario.
+* **Model Building & Feature Engineering:** Engineered time-based features using cyclical encoding, applied Yeo-Johnson scaling for numeric variables, and built a PyTorch Feed-Forward Neural Network optimized with early stopping and class-weighting to handle the highly imbalanced dataset.
+* **Model Performance:** My tuned neural network achieved a PR-AUC of 0.68 (an 8x lift over the baseline) and an ROC-AUC of 0.96, effectively capturing 80% of fraudulent claims at a 50% precision rate.
+
+![alt text](images/Healthcare_Fraud_Detection_1.png)
+![alt text](images/Healthcare_Fraud_Detection_2.png)
+![alt text](images/Healthcare_Fraud_Detection_3.png)
+
 # [Project: EDA Video Game Sales](https://github.com/Sakda-Phoda/EDA_Video_Game_Sales)
 * **Objective:** This project aims to empower game developers, publishers, and investors by uncovering historical video game market trends, showing them **how** genres, platforms, and critical reception influence commercial success, and **who** the key industry players are.
 * **Data Cleaning:** I cleaned and standardized the dataset by lowercasing headers, formatting dates, and engineering new temporal features.
