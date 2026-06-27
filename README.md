@@ -3,7 +3,7 @@ Thank you for visiting my portfolio. Please feel free to reach out if you would 
 
 > 💡 **Note:** Click on the project titles to see more details in the repository.
 
-# [Project: Healthcare_Fraud_Detection with PyTorch](https://github.com/Sakda-Phoda/Healthcare_Fraud_Detection)
+# [Project: Healthcare Fraud Detection with PyTorch](https://github.com/Sakda-Phoda/Healthcare_Fraud_Detection)
 * **Objective:** Develop a deep learning classification pipeline to flag potentially fraudulent healthcare insurance claims, helping insurance companies minimize financial losses and streamline claims processing.
 * **Data Cleaning:** Removed rows with missing values, dropped high-cardinality identifiers, and eliminated post-decision leakage features to ensure the model reflects a realistic operating scenario.
 * **Model Building & Feature Engineering:** Engineered time-based features using cyclical encoding, applied Yeo-Johnson scaling for numeric variables, and built a PyTorch Feed-Forward Neural Network optimized with early stopping and class-weighting to handle the highly imbalanced dataset.
